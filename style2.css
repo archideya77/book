@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-color: rgb(185, 185, 153);
+}
+.container {
+  width: 1200px;
+  margin: auto;
+  padding: 0 20px;
+}
+header {
+  width: 100%;
+  background-color: rgb(207, 192, 192);
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  position: fixed;
+}
+.header {
+  font-size: 45px;
+  color: black;
+}
+.subtitle {
+  line-height: 35px;
+  font-size: 25px;
+  padding-top: 100px;
+}
