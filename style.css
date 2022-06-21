@@ -7,7 +7,7 @@
   font-family: "Roboto", sans-serif;
 }
 .container {
-  width: 1200px;
+  max-width: 320px;
   margin: auto;
   padding: 0 20px;
 }
@@ -17,12 +17,13 @@
 }
 .header {
   width: 100%;
-  padding: 20px;
   text-align: center;
   font-size: 25px;
   color: aliceblue;
   padding-top: 70px;
+  padding-bottom: 25px;
 }
+
 .text__section {
   text-align: center;
 }
@@ -36,7 +37,6 @@
   color: rgb(68, 99, 157);
 }
 .image {
-  margin-left: 450px;
   border-radius: 20px;
   margin-top: 20px;
 }
